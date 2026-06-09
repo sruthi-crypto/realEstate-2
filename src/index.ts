@@ -31,7 +31,6 @@ function jsonResponse(body: any, status = 200) {
 		headers: { ...cors, "Content-Type": "application/json" }
 	});
 }
-
 // ================= AUTH =================
 
 async function verifyAdmin(request: Request, env: Env) {
