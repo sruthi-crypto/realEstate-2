@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "backend2-sunglobal-realtors",
+	"name": "apis2-realestate",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-04-24",
 	"observability": {
