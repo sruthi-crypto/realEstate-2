@@ -1,0 +1,17 @@
+{
+  "name": "backend-realestate2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.2",
+    "wrangler": "^4.85.0"
+  },
+  "dependencies": {
+    "jose": "^6.2.2",
+    "otplib": "^12.0.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "apis2-realestate",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-04-24",
+	"compatibility_flags": ["nodejs_compat"],
+	"vars": {
+		"SUPABASE_URL": "https://thudimtnzarojhnvxlfw.supabase.co"
+	}
+}
